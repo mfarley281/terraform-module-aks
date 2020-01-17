@@ -1,0 +1,6 @@
+.terraform/*
+terraform.tfstate
+terraform.tfstate.backup
+service_principal/.terraform/*
+service_principal/terraform.tfstate
+service_principal/terraform.tfstate.backup
